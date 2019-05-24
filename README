@@ -1,0 +1,10 @@
+All included files relate to Dylan Horowitz's final project in Computational Linguistics. 
+
+This project's goal was to create a DNN that could determine whether or not a tweet contained hate speech.
+
+The actual training algorithm is the python program "DNN", with the other python programs enclosed being used to help create the testing and training datasets.
+
+Current Problems:
+The algorithm returns near-perfect results. This seems to be an issue with the dataset, as I believe there is currently a lack of ambiguous cases.
+This is to be expected, as very few actual datasets exist for this research and I had to create my own.
+Future work should involve create datasets that better test the accuracy of the DNN.
